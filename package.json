@@ -10,10 +10,10 @@
     "dadata",
     "hinting addresses"
   ],
-  "homepage": "https://github.com/Gakmannn/vue-dadata",
+  "homepage": "https://github.com/Gakmannn/vue-dadata-fixed",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Gakmannn/vue-dadata.git"
+    "url": "git+https://github.com/Gakmannn/vue-dadata-fixed.git"
   },
   "license": "MIT",
   "author": "Ivan Monastyrev <ikloster@yandex.ru>",
