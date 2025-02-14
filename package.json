@@ -1,6 +1,6 @@
 {
-  "name": "vue-dadata",
-  "version": "3.0.0-beta.13",
+  "name": "vue-dadata-fixed",
+  "version": "3.0.0-beta.15",
   "description": "Vue component for hinting addresses using dadata.ru",
   "keywords": [
     "vue",
@@ -19,15 +19,15 @@
   "author": "Ivan Monastyrev <ikloster@yandex.ru>",
   "exports": {
     ".": {
-      "import": "./dist/vue-dadata.js",
-      "require": "./dist/vue-dadata.umd.js"
+      "import": "./dist/vue-dadata-fixed.js",
+      "require": "./dist/vue-dadata-fixed.umd.js"
     },
     "./*": "./*"
   },
-  "main": "./dist/vue-dadata.umd.js",
-  "unpkg": "./dist/vue-dadata.umd.js",
-  "jsdelivr": "./dist/vue-dadata.umd.js",
-  "module": "./dist/vue-dadata.js",
+  "main": "./dist/vue-dadata-fixed.umd.js",
+  "unpkg": "./dist/vue-dadata-fixed.umd.js",
+  "jsdelivr": "./dist/vue-dadata-fixed.umd.js",
+  "module": "./dist/vue-dadata-fixed.js",
   "typings": "./dist/index.d.ts",
   "files": [
     "dist/*",

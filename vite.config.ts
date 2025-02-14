@@ -8,9 +8,9 @@ export default () => defineConfig({
   build: {
     lib: {
       entry: resolve(__dirname, 'src/index.ts'),
-      name: 'VueDadata',
+      name: 'VueDadata-fixed',
       formats: ['es', 'umd', 'cjs'],
-      fileName: 'vue-dadata'
+      fileName: 'vue-dadata-fixed'
 
     },
     rollupOptions: {
